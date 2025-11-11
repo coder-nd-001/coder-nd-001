@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">👋 Hi, I'm Nagesh - Aspiring Data Scientist</h1>
+<h1 align="center">👋 Hi, I'm Coder - Aspiring Data Scientist</h1>
 
 <p align="center">
   🚀 Passionate about solving problems with <strong>Data Science, Machine Learning, NLP</strong><br>
